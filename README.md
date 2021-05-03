@@ -3,4 +3,4 @@
 
 # CLONE
 - git status
-- git clone https://github.com/SistemasEmbebidos2020/Practica4.git
+- git clone https://github.com/SistemasEmbebidos2020/Practica2.git
