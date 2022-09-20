@@ -1,5 +1,5 @@
-# Practica1
-- Codigo para práctica 1 de Sistemas Embebidos
+# Practica2
+- Codigo para práctica 2 de Sistemas Embebidos
 
 # CLONE
 - git status
